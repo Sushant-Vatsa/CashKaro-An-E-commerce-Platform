@@ -41,4 +41,8 @@ It blends rich black backgrounds with elegant gold highlights to create a timele
 ---
 
 ## 📂 Project Structure
+📦 NoirLux
+┣ 📜 Index.html
+┣ 📜 style.css
+┗ 📜 README.md
 
