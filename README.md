@@ -23,9 +23,10 @@ It blends rich black backgrounds with elegant gold highlights to create a timele
 > ✨ **Screenshot of NoirLux**
 >
 > ![Preview](https://github.com/user-attachments/assets/8b66e7e9-8561-4f96-a1dd-02891e5e0826)
-(https://github.com/user-attachments/assets/ddb44901-c6cc-4727-a567-c0814d2d97b1)
-(https://github.com/user-attachments/assets/50e81f32-da49-4fc8-85d9-444135f20cd4)
-(https://github.com/user-attachments/assets/1dd8f3e6-bec7-4f62-a3c8-161b545abb3e)
+![Screenshot 2025-07-02 013308](https://github.com/user-attachments/assets/dde305cf-81e7-48f4-ac25-cdeab3e23eba)
+![Screenshot 2025-07-02 013403](https://github.com/user-attachments/assets/39212ebe-443b-4ed5-a65d-7173e1659600)
+![Screenshot 2025-07-02 013342](https://github.com/user-attachments/assets/a65a9b13-de1f-4036-ad35-0d085c846523)
+
 
 
 ---
