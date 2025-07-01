@@ -1,46 +1,43 @@
-# 💸 CashKaro | Premium Shopping & Cashback Platform
+# 🖤 NoirLux | Luxury Shopping Experience
 
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fyour-live-demo-link.com)
-
-CashKaro is a **sleek, modern e-commerce landing page** built with HTML5 & CSS3.  
-It features premium product showcases, category sections, cashback highlights, and smooth scroll animations, designed to enhance user engagement and drive conversions.
+**NoirLux** is an ultra-premium, fully responsive luxury shopping landing page.  
+It blends rich black backgrounds with elegant gold highlights to create a timeless, high-class aesthetic — perfect for showcasing high-end collections, curated products, and exclusive services.
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
-- 🛍️ **Hero Section:** Gradient-backed banner with call-to-action
-- 🎧 **Featured Products:** Stylish cards with ratings & pricing
-- 📂 **Shop by Category:** Interactive category grid
-- 💰 **Why Choose Us:** Highlights cashback, exclusive deals, and fast delivery
-- 📱 **Fully Responsive:** Looks great on all devices
-- ✨ **Animations:** Scroll-triggered fade-ins for modern feel
-- 🎨 **Dark Theme:** Premium black-gold palette with elegant typography
+- 🖤 **Stunning Hero Section:** Dark luxury backdrop with glowing gold gradients and CTA.
+- 💍 **Curated Products Grid:** Elegant cards with hover animations & price highlights.
+- 👑 **Luxury Categories:** Engaging section to explore fine jewelry, couture, decor & more.
+- 🌟 **The NoirLux Difference:** Emphasizes authenticity, concierge service, and luxury packaging.
+- ⚡ **Smooth Scroll Animations:** Sections elegantly fade in for a polished experience.
+- 📱 **100% Responsive:** Flawlessly adapts from desktops to mobiles.
+- 🎨 **Premium Theme:** Black & gold color palette, elegant typography (Raleway & Montserrat).
 
 ---
 
 ## 🔥 Preview
 
-> 📸 **Screenshot**
-
-![Screenshot]![image](https://github.com/user-attachments/assets/2efa74aa-63cf-4e59-b111-7d37e8c2712a)
+> ✨ **Screenshot of NoirLux**
+>
+> ![Preview](https://github.com/user-attachments/assets/8b66e7e9-8561-4f96-a1dd-02891e5e0826)
+(https://github.com/user-attachments/assets/ddb44901-c6cc-4727-a567-c0814d2d97b1)
+(https://github.com/user-attachments/assets/50e81f32-da49-4fc8-85d9-444135f20cd4)
+(https://github.com/user-attachments/assets/1dd8f3e6-bec7-4f62-a3c8-161b545abb3e)
 
 
 ---
 
-## 🚧 Built With
+## 🚀 Built With
 
-- **HTML5** – Semantic, accessible markup
-- **CSS3** – Advanced layout, flex/grid, gradients & transitions
-- **Font Awesome** – For beautiful icons
-- **Google Fonts:** Montserrat & Raleway
-- **Unsplash Images** – High-quality visuals
+- **HTML5 & CSS3** — clean semantic code, responsive layout
+- **Font Awesome 6** — beautiful icons for categories & features
+- **Google Fonts:** Montserrat & Raleway for modern luxury typography
+- **Unsplash Images:** Free, high-quality imagery for products & backgrounds
 
 ---
 
 ## 📂 Project Structure
-📦 CashKaro
-┣ 📜 Index.html
-┣ 📜 style.css
-┗ 📜 README.md
+
