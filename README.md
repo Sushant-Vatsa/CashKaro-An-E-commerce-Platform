@@ -25,7 +25,7 @@ It features premium product showcases, category sections, cashback highlights, a
 > 📸 **Screenshot**
 
 ![Screenshot]![image](https://github.com/user-attachments/assets/2efa74aa-63cf-4e59-b111-7d37e8c2712a)
-)
+
 
 ---
 
@@ -40,4 +40,7 @@ It features premium product showcases, category sections, cashback highlights, a
 ---
 
 ## 📂 Project Structure
-
+📦 CashKaro
+┣ 📜 Index.html
+┣ 📜 style.css
+┗ 📜 README.md
