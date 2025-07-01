@@ -8,8 +8,8 @@
 :root {
     --black: #000000;
     --dark-gray: #121212;
-    --yellow: #FFD700;
-    --gold: #FFB700;
+    --gold: #D4AF37; /* Rich gold color */
+    --light-gold: #F5E7A1;
     --light-gray: #f0f0f0;
     --white: #ffffff;
     --transition: all 0.3s ease;
@@ -45,7 +45,7 @@ h2::after {
     left: 0;
     width: 60%;
     height: 4px;
-    background: linear-gradient(90deg, var(--yellow), transparent);
+    background: linear-gradient(90deg, var(--gold), transparent);
     border-radius: 2px;
 }
 
@@ -84,14 +84,14 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid rgba(255, 215, 0, 0.2);
+    border-bottom: 1px solid rgba(212, 175, 55, 0.3);
 }
 
 .logo {
     font-family: 'Raleway', sans-serif;
     font-size: 1.8rem;
     font-weight: 800;
-    color: var(--yellow);
+    color: var(--gold);
     text-decoration: none;
     letter-spacing: 2px;
 }
@@ -120,12 +120,12 @@ nav {
     left: 0;
     width: 0;
     height: 2px;
-    background-color: var(--yellow);
+    background-color: var(--gold);
     transition: var(--transition);
 }
 
 .nav-links a:hover {
-    color: var(--yellow);
+    color: var(--gold);
 }
 
 .nav-links a:hover::after {
@@ -133,7 +133,7 @@ nav {
 }
 
 .cart-icon {
-    color: var(--yellow);
+    color: var(--gold);
     font-size: 1.2rem;
     position: relative;
 }
@@ -142,7 +142,7 @@ nav {
     position: absolute;
     top: -8px;
     right: -8px;
-    background-color: var(--yellow);
+    background-color: var(--gold);
     color: var(--black);
     font-size: 0.7rem;
     width: 18px;
@@ -159,7 +159,7 @@ nav {
     height: 100vh;
     display: flex;
     align-items: center;
-    background: radial-gradient(circle at 10% 20%, rgba(18, 18, 18, 0.7) 0%, rgba(0, 0, 0, 0.9) 90%), url('https://images.unsplash.com/photo-1607082350899-7e105aa886ae?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920') no-repeat center center/cover;
+    background: radial-gradient(circle at 10% 20%, rgba(18, 18, 18, 0.7) 0%, rgba(0, 0, 0, 0.9) 90%), url('https://images.unsplash.com/photo-1601924994987-69e26d50dc26?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80') no-repeat center center/cover;
     position: relative;
     overflow: hidden;
 }
@@ -171,7 +171,7 @@ nav {
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(45deg, rgba(255, 215, 0, 0.1), transparent);
+    background: linear-gradient(45deg, rgba(212, 175, 55, 0.1), transparent);
     pointer-events: none;
 }
 
@@ -185,10 +185,10 @@ nav {
     font-size: 4rem;
     line-height: 1.1;
     margin-bottom: 1.5rem;
-    background: linear-gradient(to right, var(--light-gray), var(--yellow));
+    background: linear-gradient(to right, var(--light-gray), var(--gold));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    text-shadow: 0 5px 15px rgba(255, 215, 0, 0.2);
+    text-shadow: 0 5px 15px rgba(212, 175, 55, 0.2);
 }
 
 .hero p {
@@ -201,8 +201,8 @@ nav {
     display: inline-block;
     padding: 1rem 2.5rem;
     background-color: transparent;
-    color: var(--yellow);
-    border: 2px solid var(--yellow);
+    color: var(--gold);
+    border: 2px solid var(--gold);
     border-radius: 30px;
     font-weight: 600;
     text-transform: uppercase;
@@ -221,14 +221,14 @@ nav {
     left: -100%;
     width: 100%;
     height: 100%;
-    background: linear-gradient(90deg, transparent, rgba(255, 215, 0, 0.2), transparent);
+    background: linear-gradient(90deg, transparent, rgba(212, 175, 55, 0.2), transparent);
     transition: 0.6s;
     z-index: -1;
 }
 
 .btn:hover {
     color: var(--black);
-    box-shadow: 0 0 20px rgba(255, 215, 0, 0.4);
+    box-shadow: 0 0 20px rgba(212, 175, 55, 0.4);
 }
 
 .btn:hover::before {
@@ -236,14 +236,14 @@ nav {
 }
 
 .btn-primary {
-    background-color: var(--yellow);
+    background-color: var(--gold);
     color: var(--black);
     border: none;
-    box-shadow: 0 5px 15px rgba(255, 215, 0, 0.3);
+    box-shadow: 0 5px 15px rgba(212, 175, 55, 0.3);
 }
 
 .btn-primary:hover {
-    background-color: var(--gold);
+    background-color: var(--light-gold);
     transform: translateY(-3px);
 }
 
@@ -262,13 +262,13 @@ nav {
     position: relative;
     transition: var(--transition);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
-    border: 1px solid rgba(255, 215, 0, 0.1);
+    border: 1px solid rgba(212, 175, 55, 0.1);
 }
 
 .product-card:hover {
     transform: translateY(-10px);
-    box-shadow: 0 15px 30px rgba(255, 215, 0, 0.2);
-    border-color: rgba(255, 215, 0, 0.3);
+    box-shadow: 0 15px 30px rgba(212, 175, 55, 0.2);
+    border-color: rgba(212, 175, 55, 0.3);
 }
 
 .product-img {
@@ -299,7 +299,7 @@ nav {
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(135deg, rgba(255, 215, 0, 0.05), transparent);
+    background: linear-gradient(135deg, rgba(212, 175, 55, 0.05), transparent);
 }
 
 .product-info {
@@ -307,7 +307,7 @@ nav {
 }
 
 .product-category {
-    color: var(--yellow);
+    color: var(--gold);
     font-size: 0.9rem;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -323,18 +323,18 @@ nav {
 .product-price {
     font-size: 1.5rem;
     font-weight: 700;
-    color: var(--yellow);
+    color: var(--gold);
 }
 
 .rating {
-    color: var(--yellow);
+    color: var(--gold);
     margin: 0.5rem 0;
     font-size: 0.9rem;
 }
 
 /* Categories Section */
 .categories {
-    background: linear-gradient(to bottom, rgba(18, 18, 18, 0.8), rgba(0, 0, 0, 1)), url('https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920') no-repeat center center/cover;
+    background: linear-gradient(to bottom, rgba(18, 18, 18, 0.8), rgba(0, 0, 0, 1)), url('https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80') no-repeat center center/cover;
 }
 
 .categories-grid {
@@ -349,20 +349,20 @@ nav {
     padding: 2rem;
     text-align: center;
     transition: var(--transition);
-    border: 1px solid rgba(255, 215, 0, 0.1);
+    border: 1px solid rgba(212, 175, 55, 0.1);
     backdrop-filter: blur(5px);
 }
 
 .category-card:hover {
     transform: scale(1.05);
     background-color: rgba(25, 25, 25, 0.9);
-    box-shadow: 0 10px 25px rgba(255, 215, 0, 0.2);
-    border-color: var(--yellow);
+    box-shadow: 0 10px 25px rgba(212, 175, 55, 0.2);
+    border-color: var(--gold);
 }
 
 .category-icon {
     font-size: 3rem;
-    color: var(--yellow);
+    color: var(--gold);
     margin-bottom: 1rem;
     transition: var(--transition);
 }
@@ -390,32 +390,32 @@ nav {
     border-radius: 8px;
     text-align: center;
     transition: var(--transition);
-    border: 1px solid rgba(255, 215, 0, 0.1);
+    border: 1px solid rgba(212, 175, 55, 0.1);
 }
 
 .feature-card:hover {
     transform: translateY(-10px);
-    border-color: var(--yellow);
-    box-shadow: 0 10px 25px rgba(255, 215, 0, 0.2);
+    border-color: var(--gold);
+    box-shadow: 0 10px 25px rgba(212, 175, 55, 0.2);
 }
 
 .feature-icon {
     font-size: 2.5rem;
-    color: var(--yellow);
+    color: var(--gold);
     margin-bottom: 1.5rem;
 }
 
 .feature-title {
     font-size: 1.3rem;
     margin-bottom: 1rem;
-    color: var(--yellow);
+    color: var(--gold);
 }
 
 /* Footer */
 footer {
     background-color: var(--dark-gray);
     padding: 4rem 0 2rem;
-    border-top: 1px solid rgba(255, 215, 0, 0.2);
+    border-top: 1px solid rgba(212, 175, 55, 0.2);
 }
 
 .footer-grid {
@@ -426,7 +426,7 @@ footer {
 }
 
 .footer-column h3 {
-    color: var(--yellow);
+    color: var(--gold);
     margin-bottom: 1.5rem;
     font-size: 1.3rem;
 }
@@ -440,7 +440,7 @@ footer {
 }
 
 .footer-links a:hover {
-    color: var(--yellow);
+    color: var(--gold);
     transform: translateX(5px);
 }
 
@@ -457,13 +457,13 @@ footer {
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-color: rgba(255, 215, 0, 0.1);
-    color: var(--yellow);
+    background-color: rgba(212, 175, 55, 0.1);
+    color: var(--gold);
     transition: var(--transition);
 }
 
 .social-icons a:hover {
-    background-color: var(--yellow);
+    background-color: var(--gold);
     color: var(--black);
     transform: translateY(-5px);
 }
