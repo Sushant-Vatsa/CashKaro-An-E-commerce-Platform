@@ -3,7 +3,7 @@
 
 **NoirLux** is an ultra-premium, fully responsive luxury shopping landing page.  
 It blends rich black backgrounds with elegant gold highlights to create a timeless, high-class aesthetic — perfect for showcasing high-end collections, curated products, and exclusive services.
-
+Watch It Live: https://noirlux.netlify.app/
 ---
 
 ## ✨ Features
