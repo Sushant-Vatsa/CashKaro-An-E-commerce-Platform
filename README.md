@@ -1,8 +1,6 @@
 # 💸 CashKaro | Premium Shopping & Cashback Platform
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/yourrepo)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepo)
-![GitHub](https://img.shields.io/github/license/yourusername/yourrepo)
+
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fyour-live-demo-link.com)
 
 CashKaro is a **sleek, modern e-commerce landing page** built with HTML5 & CSS3.  
@@ -26,7 +24,8 @@ It features premium product showcases, category sections, cashback highlights, a
 
 > 📸 **Screenshot**
 
-![Screenshot](https://user-images.githubusercontent.com/yourusername/yourrepo/screenshot.png)
+![Screenshot]![image](https://github.com/user-attachments/assets/2efa74aa-63cf-4e59-b111-7d37e8c2712a)
+)
 
 ---
 
