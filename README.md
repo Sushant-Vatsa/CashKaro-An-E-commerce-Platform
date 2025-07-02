@@ -31,6 +31,7 @@ It blends rich black backgrounds with elegant gold highlights to create a timele
 ## 🚀 Live Demo
 
 🌐 [**View NoirLux Live**](https://noirlux.netlify.app/)
+🌐 [**View NoirLux Live on vercel**]((https://noirlux.vercel.app/))
 
 ---
 
