@@ -30,8 +30,8 @@ It blends rich black backgrounds with elegant gold highlights to create a timele
 
 ## 🚀 Live Demo
 
-🌐 [**View NoirLux Live**](https://noirlux.netlify.app/)
-🌐 [**View NoirLux Live on vercel**]([(https://noirlux.vercel.app/)](https://noirlux.vercel.app/))
+🌐 **[View on Vercel](https://noirlux.vercel.app/)**  
+🌐 **[View on Netlify](https://noirlux.netlify.app/)**
 
 ---
 
@@ -45,7 +45,9 @@ It blends rich black backgrounds with elegant gold highlights to create a timele
 ---
 
 ## 📂 Project Structure
-📦 NoirLux
-┣ 📜 Index.html
-┣ 📜 style.css
-┗ 📜 README.md
+  📦 NoirLux
+  ┣ 📜 index.html
+  ┣ 📜 style.css
+  ┗ 📜 README.md
+
+
